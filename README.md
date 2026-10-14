@@ -92,3 +92,6 @@ Algorithm
 Flowchart
 
 Start → Display Menu → Select Operation → Perform Selected Operation → Display Result → Repeat Menu → Exit → Stop
+## Project Flowchart
+
+![Hospital Emergency Queue Management System Flowchart](flowchart.png)
