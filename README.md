@@ -102,6 +102,8 @@ This project was developed by the following team members:
 1. Narendra Gangwar
 2. Samee Beg 
 3. Tanishq
+4. Favour nkezi
+5. Amit 
 
 Institution: Invertis University
 
