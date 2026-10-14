@@ -95,3 +95,18 @@ Start → Display Menu → Select Operation → Perform Selected Operation → D
 ## Project Flowchart
 
 ![Hospital Emergency Queue Management System Flowchart](flowchart.png)
+Project Team
+
+This project was developed by the following team members:
+
+1. Narendra Gangwar
+2. Samee Beg 
+3. Tanishq
+
+Institution: Invertis University
+
+Project: Hospital Emergency Queue Management System
+
+Language: C Programming
+
+Subject: Data Structures and Algorithms (DSA)
