@@ -75,3 +75,20 @@ Future Improvements
 Disclaimer
 
 This project is developed for academic and educational purposes only. It does not replace professional medical triage or clinical decision-making.
+Algorithm
+
+1. Start the program.
+2. Display the main menu.
+3. Ask the user to select an operation.
+4. If Register Patient is selected, enter patient details and assign a priority.
+5. Insert the patient into the queue according to priority.
+6. If Display Patients is selected, show all waiting patients.
+7. If Serve Next Patient is selected, remove and display the highest-priority patient.
+8. If Search Patient is selected, find the patient using their ID.
+9. If Queue Statistics is selected, display the number of patients in each priority category.
+10. Repeat the menu until the user selects Exit.
+11. Stop the program.
+
+Flowchart
+
+Start → Display Menu → Select Operation → Perform Selected Operation → Display Result → Repeat Menu → Exit → Stop
